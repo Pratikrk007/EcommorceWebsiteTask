@@ -58,5 +58,5 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/pratik-khardekar-57a646215/" target="_blank">LinkedIn</a>
   </p>
